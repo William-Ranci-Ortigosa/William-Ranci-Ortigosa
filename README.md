@@ -1,6 +1,6 @@
 # William Ranci Ortigosa
 
-Hi, I’m William and I'm interested in starting a career in Software Engineering. I'm currently a P-Tech Bridge Extern at IBM learning to build my professional and technical skills. Here I will post my projects that I've worked on along the way, the learning never stops! 
+Current Software Engineer Apprentice graduating in January 2024. Alumni of P-Tech Norwalk who earned a high school diploma as well as an Associate's Degree in Software Engineering within the same year. Candidate has prior work experience including two internships with IBM.
 
 <!---
 William-Ranci-Ortigosa/William-Ranci-Ortigosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
