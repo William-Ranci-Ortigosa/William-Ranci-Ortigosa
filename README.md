@@ -1,6 +1,6 @@
 # William Ranci Ortigosa
 
-Current Software Performance Analyst at IBM.
+Current Software Performance Analyst at IBM with 2 years experience.
 
 <!---
 William-Ranci-Ortigosa/William-Ranci-Ortigosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
